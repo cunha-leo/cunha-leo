@@ -38,4 +38,4 @@
 
 ##
 
-![Snake animation](https://github.com/cunha-leo/cunha-leo/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/cunha-leo/cunha-leo/blob/output/github-contribution-grid-snake.gif)
