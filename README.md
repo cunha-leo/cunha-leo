@@ -12,10 +12,10 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/cunha-leo">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cunha-leo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=cunha-leo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/cunha-leo">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunha-leo&layout=compact&langs_count=8&theme=react"/>
+    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunha-leo&layout=compact&langs_count=8&theme=react"/>
   </a>
 </div>
 <br>
