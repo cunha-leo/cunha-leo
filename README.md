@@ -8,6 +8,8 @@
   <li>🔮 Materializando ideias em códigos desde 2019!</li>
 </ul>
 
+<h6> Se você estava comigo no perfil do GitHub <strong><em>leo-allves</em></strong> desde de 2019, infelizmente ele não está mais disponível. Seja bem-vindo ao novo 🫡</h6>
+
 ##
 
 <div align="center" display="inline-block">
