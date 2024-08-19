@@ -14,10 +14,10 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/cunha-leo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cunha-leo&show_icons=true&theme=react&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cunha-leo&show_icons=true&theme=dark&count_private=true"/>
   </a>
   <a href="https://github.com/cunha-leo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunha-leo&layout=compact&langs_count=8&theme=react"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cunha-leo&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </div>
 <br>
