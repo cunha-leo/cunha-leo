@@ -1,14 +1,39 @@
-<h2> Olá, bem vindo(a) ao meu perfil! </h2>
+<h2> Hello, welcome to my profile!</h2>
 
 <ul>
-  <li>😊 Apaixonado por tecnologia. </li>
-  <li>🎓 Formado em Análises e Desenvolvimento de Sistemas.</li>
-  <li>📊 Cursando Pós em Ciência de Dados na Faculdade Líbano e Escola DNC</li>
-  <li>🚀 Estudo também sobre técnologias emergentes como IA, Low-Code</li>
-  <li>🖥️ Materializando ideias em códigos desde 2019!</li>
+  <li>🎓 Graduate in Systems Analysis and Development.</li>
+  <li>📊 Postgraduate in Data Science and AI from Faculdade Líbanio (with a theoretical focus, exploring concepts and tools).</li>
+  <li>🚀 Always studying and learning about emerging technologies like Low-Code, Data, and AI.</li>
+  <li>🖥️ Turning ideas into code since 2019!</li>
 </ul>
 
-<h6> Se você estava comigo no perfil do GitHub <strong><em>leo-allves</em></strong> desde de 2019, infelizmente ele não está mais disponível. Seja bem-vindo ao novo 🫡</h6>
+<h6> If you followed me on my previous GitHub profile <strong><em>leo-allves</em></strong> since 2019, unfortunately, it is no longer available. Welcome to the new one! 🫡</h6>
+
+##
+
+<h2> ¡Hola, bienvenido a mi perfil!</h2>
+
+<ul>
+ <li>🎓 Licenciado en Análisis y Desarrollo de Sistemas.</li>
+ <li>📊 Posgrado en Ciencia de Datos e IA de la Facultad Líbanio (con enfoque teórico, explorando conceptos y herramientas).</li>
+ <li>🚀 Siempre estudiando y aprendiendo sobre tecnologías emergentes como Low-Code, Datos e AI.</li>
+ <li>🖥️ ¡Convirtiendo ideas en código desde 2019!</li>
+</ul>
+
+<h6> Si me seguiste en mi perfil anterior de GitHub <strong><em>leo-allves</em></strong> desde 2019, lamentablemente ya no está disponible. ¡Bienvenidos al nuevo! 🫡</h6>
+
+##
+
+<h2> Olá, bem-vindo ao meu perfil!</h2>
+
+<ul>
+ <li>🎓 Pós-Graduação em Análise e Desenvolvimento de Sistemas.</li>
+ <li>📊 Pós-graduação em Ciência de Dados e IA pela Faculdade Líbanio (com foco teórico, explorando conceitos e ferramentas).</li>
+ <li>🚀 Sempre a estudar e a aprender sobre tecnologias emergentes como Low-Code, Dados e IA.</li>
+ <li>🖥️ A transformar ideias em código desde 2019!</li>
+</ul>
+
+<h6> Se me seguia no meu perfil anterior do GitHub <strong><em>leo-allves</em></strong> desde 2019, infelizmente já não está disponível. Bem-vindo ao novo! 🫡</h6>
 
 ##
 
