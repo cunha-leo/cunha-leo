@@ -2,7 +2,7 @@
 
 <ul>
   <li>🎓 Graduate in Systems Analysis and Development.</li>
-  <li>📊 Postgraduate in Data Science and AI from Faculdade Líbanio (with a theoretical focus, exploring concepts and tools).</li>
+  <li>📊 Postgraduate in Data Science and AI from Faculty Líbano (with a theoretical focus, exploring concepts and tools).</li>
   <li>🚀 Always studying and learning about emerging technologies like Low-Code, Data, and AI.</li>
   <li>🖥️ Turning ideas into code since 2019!</li>
 </ul>
@@ -15,7 +15,7 @@
 
 <ul>
  <li>🎓 Licenciado en Análisis y Desarrollo de Sistemas.</li>
- <li>📊 Posgrado en Ciencia de Datos e IA de la Facultad Líbanio (con enfoque teórico, explorando conceptos y herramientas).</li>
+ <li>📊 Posgrado en Ciencia de Datos e IA de la Facultad Líbano (con enfoque teórico, explorando conceptos y herramientas).</li>
  <li>🚀 Siempre estudiando y aprendiendo sobre tecnologías emergentes como Low-Code, Datos e AI.</li>
  <li>🖥️ ¡Convirtiendo ideas en código desde 2019!</li>
 </ul>
@@ -28,7 +28,7 @@
 
 <ul>
  <li>🎓 Pós-Graduação em Análise e Desenvolvimento de Sistemas.</li>
- <li>📊 Pós-graduação em Ciência de Dados e IA pela Faculdade Líbanio (com foco teórico, explorando conceitos e ferramentas).</li>
+ <li>📊 Pós-graduação em Ciência de Dados e IA pela Faculdade Líbano (com foco teórico, explorando conceitos e ferramentas).</li>
  <li>🚀 Sempre a estudar e a aprender sobre tecnologias emergentes como Low-Code, Dados e IA.</li>
  <li>🖥️ A transformar ideias em código desde 2019!</li>
 </ul>
