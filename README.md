@@ -67,21 +67,21 @@ Currently deepening my path in Data Science and AI, with a theoretical foundatio
 <div align="center">
   <img
     width="96%"
-    src="https://github-profile-trophy.vercel.app/?username=cunha-leo&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-    alt="GitHub profile trophies"
+    src="https://raw.githubusercontent.com/cunha-leo/cunha-leo/output/github-profile-metrics.svg"
+    alt="Dynamic GitHub profile metrics"
   />
 </div>
 
 <div align="center">
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cunha-leo&theme=github_dark"
-    alt="GitHub profile stats"
+    src="https://raw.githubusercontent.com/cunha-leo/cunha-leo/output/github-languages-metrics.svg"
+    alt="Dynamic GitHub language metrics"
   />
   <img
     width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cunha-leo&theme=github_dark"
-    alt="Top languages by repository"
+    src="https://raw.githubusercontent.com/cunha-leo/cunha-leo/output/github-activity-metrics.svg"
+    alt="Dynamic GitHub activity metrics"
   />
 </div>
 
