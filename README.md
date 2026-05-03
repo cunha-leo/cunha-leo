@@ -67,8 +67,8 @@ Currently deepening my path in Data Science and AI, with a theoretical foundatio
 <div align="center">
   <img
     width="96%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cunha-leo&theme=github_dark"
-    alt="Dynamic GitHub profile summary"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cunha-leo&theme=react-dark&hide_border=true&area=true&height=300&custom_title=Contribution%20Activity"
+    alt="Dynamic GitHub contribution activity graph"
   />
 </div>
 
@@ -88,16 +88,8 @@ Currently deepening my path in Data Science and AI, with a theoretical foundatio
 <div align="center">
   <img
     width="96%"
-    src="https://streak-stats.demolab.com?user=cunha-leo&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</div>
-
-<div align="center">
-  <img
-    width="96%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=cunha-leo&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity"
-    alt="GitHub contribution activity graph"
+    src="https://streak-stats.demolab.com?user=cunha-leo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=8B949E"
+    alt="Dynamic GitHub contribution streak"
   />
 </div>
 
