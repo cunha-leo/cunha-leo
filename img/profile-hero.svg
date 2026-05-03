@@ -1,0 +1,43 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.52" stop-color="#071827"/>
+      <stop offset="1" stop-color="#063B3F"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="238" x2="1020" y2="238" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D4AA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00D4AA"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0 0 0 0 0 0.83 0 0 0 0 0.67 0 0 0 0.8 0"/>
+      <feBlend in2="SourceGraphic" mode="screen"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="330" rx="22" fill="url(#bg)"/>
+  <path d="M0 250C179 208 315 284 500 246C686 208 765 170 1200 205V330H0V250Z" fill="#00D4AA" fill-opacity="0.08"/>
+  <path d="M0 87C216 138 339 61 523 102C708 143 895 143 1200 76" stroke="#58A6FF" stroke-opacity="0.18" stroke-width="2"/>
+  <g opacity="0.22">
+    <path d="M80 0V330M200 0V330M320 0V330M440 0V330M560 0V330M680 0V330M800 0V330M920 0V330M1040 0V330" stroke="#FFFFFF" stroke-opacity="0.08"/>
+    <path d="M0 80H1200M0 160H1200M0 240H1200" stroke="#FFFFFF" stroke-opacity="0.08"/>
+  </g>
+  <circle cx="970" cy="98" r="78" fill="#00D4AA" fill-opacity="0.13" filter="url(#glow)"/>
+  <circle cx="236" cy="248" r="58" fill="#58A6FF" fill-opacity="0.16" filter="url(#glow)"/>
+  <text x="72" y="96" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="4">PROFILE README</text>
+  <text x="72" y="158" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Leonardo Cunha</text>
+  <text x="75" y="198" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Data | AI | Low-Code | Full Stack</text>
+  <rect x="72" y="226" width="178" height="38" rx="19" fill="#00D4AA" fill-opacity="0.14" stroke="#00D4AA" stroke-opacity="0.45"/>
+  <rect x="268" y="226" width="112" height="38" rx="19" fill="#58A6FF" fill-opacity="0.13" stroke="#58A6FF" stroke-opacity="0.42"/>
+  <rect x="398" y="226" width="156" height="38" rx="19" fill="#7C3AED" fill-opacity="0.13" stroke="#7C3AED" stroke-opacity="0.44"/>
+  <rect x="572" y="226" width="152" height="38" rx="19" fill="#00D4AA" fill-opacity="0.10" stroke="#00D4AA" stroke-opacity="0.30"/>
+  <text x="104" y="251" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">DATA SYSTEMS</text>
+  <text x="305" y="251" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">AI</text>
+  <text x="426" y="251" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">LOW-CODE</text>
+  <text x="606" y="251" fill="#E6EDF3" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">SOFTWARE</text>
+  <text x="840" y="105" fill="#00D4AA" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">systems analysis</text>
+  <text x="840" y="136" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">data science + ai</text>
+  <text x="840" y="167" fill="#C9D1D9" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">practical delivery</text>
+  <rect x="72" y="292" width="840" height="2" fill="url(#line)"/>
+</svg>
