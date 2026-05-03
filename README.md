@@ -48,19 +48,19 @@ Currently deepening my path in Data Science and AI, with a theoretical foundatio
 
 ## Tech Stack
 
-<div align="center">
-  <img height="34" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
-  <img height="34" width="42" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Desktop.svg" alt="Power BI" />
-  <img height="34" width="42" src="./img/python.png" alt="Python" />
-  <img height="34" width="42" src="./img/sql.png" alt="SQL" />
-  <img height="34" width="42" src="./img/mysql.png" alt="MySQL" />
-  <img height="34" width="42" src="./img/dbeaver.png" alt="DBeaver" />
-  <img height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" />
-  <img height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" />
-  <img height="34" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" />
-  <img height="34" width="42" src="./img/bootstrap.png" alt="Bootstrap" />
-  <img height="34" width="42" src="./img/php.png" alt="PHP" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logoColor=white" alt="DBeaver" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
 
 ## Commit Badges & Activity
 
@@ -74,14 +74,14 @@ Currently deepening my path in Data Science and AI, with a theoretical foundatio
 
 <div align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=cunha-leo&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"
-    alt="GitHub stats"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cunha-leo&theme=github_dark"
+    alt="GitHub profile stats"
   />
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cunha-leo&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    alt="Most used languages"
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cunha-leo&theme=github_dark"
+    alt="Top languages by repository"
   />
 </div>
 
